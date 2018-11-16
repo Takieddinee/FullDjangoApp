@@ -124,6 +124,6 @@ CRISPY_TEMPLATE_PACK = 'bootstrap4'
 
 LOGIN_REDIRECT_URL = 'blog-home'
 
-LOGIN_URL = 'url'
+LOGIN_URL = 'login'
 
 TEMPLATE_DIRS = (os.path.join(BASE_DIR, 'templates'),)
